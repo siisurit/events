@@ -16,4 +16,4 @@ However, further work is needed to improve the robustness of results.
 
 ## License
 
-© 2025 by Siisurit, licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). 
+© 2025 by Siisurit, licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
