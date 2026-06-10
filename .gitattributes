@@ -14,7 +14,9 @@
 *.sh text eol=lf
 
 # Binary files
+*.key binary
 *.ods binary
+*.pdf binary
 *.png binary
 *.jpg binary
 *.xlsx binary
